@@ -1,0 +1,1 @@
+[{"name": "eDP-1", "resolution": "1920x1080", "reference": null, "primary": true, "position": null, "refreshRate": 60, "duplicate": false, "orientation": "normal", "enabled": true}, {"name": "HDMI-1", "resolution": "1920x1080", "primary": false, "reference": "eDP-1", "position": "--above", "refreshRate": 60, "duplicate": false, "orientation": "normal", "enabled": true}]
